@@ -40,6 +40,3 @@ The DiffuGTS pipeline:
 6. **Output**: High-quality tumor segmentation mask.
 
 ---
-
-git clone https://github.com/MedhanshSharma2004/generalizable_tumor_segmentation.git
-cd generalizable_tumor_segmentation
