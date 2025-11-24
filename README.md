@@ -1,13 +1,11 @@
 # DiffuGTS: Generalizable Tumor Segmentation with Anomaly-Aware Open-Vocabulary Attention Maps
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 This repository contains an implementation of **DiffuGTS**, a framework for **zero-shot, generalizable tumor segmentation** across multiple anatomical regions and imaging modalities, based on the paper:
 
 **Advancing Generalizable Tumor Segmentation with Anomaly-Aware Open-Vocabulary Attention Maps and Frozen Foundation Diffusion Models**  
 *Yankai Jiang, Peng Zhang, Donglin Yang, Yuan Tian, Hai Lin, Xiaosong Wang*
 
-[Paper link](https://arxiv.org/abs/xxxx.xxxxx) | [Original code](https://github.com/Yankai96/DiffuGTS)
 
 ---
 
