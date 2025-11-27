@@ -42,4 +42,5 @@ The DiffuGTS pipeline:
 ## Dataset
 
 We intend to use MSD Dataset (Medical Segmentation Decathlon) for training and testing.
+
 ---
