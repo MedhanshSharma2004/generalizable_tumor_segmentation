@@ -39,4 +39,7 @@ The DiffuGTS pipeline:
 5. **Residual Learning**: Combines pixel-level and feature-level residuals to refine segmentation masks.  
 6. **Output**: High-quality tumor segmentation mask.
 
+## Dataset
+
+We intend to use MSD Dataset (Medical Segmentation Decathlon) for training and testing.
 ---
